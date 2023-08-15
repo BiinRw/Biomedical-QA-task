@@ -1,0 +1,24 @@
+--2023-07-13 09:18:23--  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.54.03/NVIDIA-Linux-x86_64-535.54.03.run
+正在解析主机 www.nvidia.com (www.nvidia.com)... 184.51.102.248, 184.51.102.234
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.248|:443... 失败：连接超时。
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.234|:443... 失败：连接超时。
+重试中。
+
+--2023-07-13 09:22:45--  (尝试次数： 2)  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.54.03/NVIDIA-Linux-x86_64-535.54.03.run
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.248|:443... 失败：连接超时。
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.234|:443... 失败：连接超时。
+重试中。
+
+--2023-07-13 09:27:08--  (尝试次数： 3)  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.54.03/NVIDIA-Linux-x86_64-535.54.03.run
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.248|:443... 失败：连接超时。
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.234|:443... 失败：连接超时。
+重试中。
+
+--2023-07-13 09:31:33--  (尝试次数： 4)  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.54.03/NVIDIA-Linux-x86_64-535.54.03.run
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.248|:443... 失败：连接超时。
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.234|:443... 失败：连接超时。
+重试中。
+
+--2023-07-13 09:35:58--  (尝试次数： 5)  https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/XFree86/Linux-x86_64/535.54.03/NVIDIA-Linux-x86_64-535.54.03.run
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.248|:443... 失败：连接超时。
+正在连接 www.nvidia.com (www.nvidia.com)|184.51.102.234|:443... 
